@@ -16,8 +16,7 @@ code
 discord
 vlc
 gimp
-libreoffice
-spotify
+spotify-client
 tmux
 git
 vim
