@@ -1,0 +1,16 @@
+scrapy
+django
+djangorestframework
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+fastapi
+jupyter
+keras
+numba
+spaCy
+CoreNLP
+NLTK
+daphne
